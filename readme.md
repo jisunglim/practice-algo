@@ -1,8 +1,8 @@
 # repository for data structure and algorithm
 
 
-Author
-------
+Created by
+----------
 ### Jisung Lim
 
 ##### B.S. Candidate in industrial engineering
@@ -16,4 +16,4 @@ Reference
 
 Version
 -------
-### 2016.07.13 v1.0
+### 2016.07.13 v1.0 (since 2016.03)

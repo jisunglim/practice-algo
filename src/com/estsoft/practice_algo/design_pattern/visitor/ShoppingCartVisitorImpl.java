@@ -9,7 +9,7 @@ public class ShoppingCartVisitorImpl implements ShoppingCartVisitor {
     if (book.getPrice() > 50) {
       cost = book.getPrice() - 5;
     } else cost = book.getPrice();
-    System.out.println("Book ISBN::" + book.getIsbnNumber() + " cost =" + cost);
+    System.out.println("Book ISBN::" + book.getIsbnNumber() + " cost = " + cost);
     return cost;
   }
 
@@ -20,4 +20,15 @@ public class ShoppingCartVisitorImpl implements ShoppingCartVisitor {
     return cost;
   }
 
+  @Override
+  public String visit(Book book, String str) {
+    int cost = visit(book);
+    return str + "[cost = " + cost + " ]";
+  }
+
+  @Override
+  public String visit(Fruit fruit, String str) {
+    int cost = visit(fruit);
+    return str + "[cost = " + cost + " ]";
+  }
 }

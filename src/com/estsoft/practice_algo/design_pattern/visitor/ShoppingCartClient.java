@@ -11,6 +11,8 @@ public class ShoppingCartClient {
 
     int total = calculatePrice(items);
     System.out.println("Total Cost = " + total);
+
+    System.out.println(calculatePriceS(items));
   }
 
   private static int calculatePrice(ItemElement[] items) {
@@ -20,5 +22,17 @@ public class ShoppingCartClient {
       sum = sum + item.accept(visitor);
     }
     return sum;
+  }
+
+  private static String calculatePriceS(ItemElement[] items) {
+    ShoppingCartVisitor visitor = new ShoppingCartVisitorImpl();
+    StringBuilder stringBuilder = new StringBuilder();
+
+    stringBuilder.append("[sVersion Price Calc]\n");
+    for(ItemElement item : items ) {
+      String s = item.accept(visitor, "sVersion :: ");
+      stringBuilder.append(s + "\n");
+    }
+    return stringBuilder.toString();
   }
 }

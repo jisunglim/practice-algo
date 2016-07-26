@@ -23,4 +23,8 @@ public class Book implements ItemElement {
     return visitor.visit(this);
   }
 
+  @Override
+  public String accept(ShoppingCartVisitor visitor, String someString) {
+    return visitor.visit(this, someString);
+  }
 }
