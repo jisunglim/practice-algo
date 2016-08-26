@@ -8,6 +8,13 @@
     <version>1.0-SNAPSHOT</version>
     <name>study-dsa</name>
 
+    <parent>
+        <groupId>io.jaylim.study</groupId>
+        <artifactId>study-archive</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
