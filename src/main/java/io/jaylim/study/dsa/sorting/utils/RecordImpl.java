@@ -24,6 +24,14 @@ public abstract class RecordImpl implements Comparable<RecordImpl>, Sortable {
     return this.compareTo(another) > 0;
   }
 
+  public boolean isLessThanOrEqualTo(RecordImpl another) {
+    return this.compareTo(another) <= 0;
+  }
+
+  public boolean isGreaterThanOrEqualTo(RecordImpl another) {
+    return this.compareTo(another) >= 0;
+  }
+
   public boolean isEqualTo(RecordImpl another) {
     return this.compareTo(another) == 0;
   }

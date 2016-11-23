@@ -44,6 +44,22 @@ public class Main {
     }
     System.out.println("\n");
 
+    /* SEGMENT - Insertion sort 2 */
+    System.out.println("Insertion Sort 3");
+    Input.Record[] records3 = Arrays.copyOf(original, original.length);
+
+    for (Input.Record record : records3) {
+      System.out.print(record.getKey() + ", ");
+    }
+    System.out.println();
+
+    BasicSorting.InsertionSort3(records3);
+
+    for (Input.Record record : records3) {
+      System.out.print(record.getKey() + ", ");
+    }
+    System.out.println("\n");
+
     /* SEGMENT - Bubble sort */
 
   }
