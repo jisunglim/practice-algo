@@ -63,8 +63,8 @@ public class Input {
    * The implementation of the {@link RecordImpl}, which is comparable and sortable.
    */
   public static class Record extends RecordImpl {
-    private final long id;
 
+    private final long id;
     public Record(long id, int key) {
       super(key);
       this.id = id;
@@ -78,5 +78,24 @@ public class Input {
     public String toString() {
       return getId() + ":" + getKey();
     }
+
+  }
+
+  public static Record[] increasingOrderRecords(int length) {
+    Record[] records = new Record[length];
+
+    for (int i = 0; i < length; i++) {
+      records[i] = new Record(i, i);
+    }
+    return records;
+  }
+
+  public static Record[] decreasingOrderRecords(int length) {
+    Record[] records = new Record[length];
+
+    for (int i = 0; i < length; i++) {
+      records[i] = new Record(i, length - i);
+    }
+    return records;
   }
 }
