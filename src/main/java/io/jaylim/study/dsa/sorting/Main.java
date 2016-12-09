@@ -26,6 +26,8 @@ public class Main {
 
     run(klass, "insertionSort2", original);
 
+    run(klass, "insertionSort3", original);
+
     run(klass, "bubbleSort", original);
 
     run(klass, "bubbleSort2", original);
@@ -33,7 +35,10 @@ public class Main {
     run(klass, "selectionSort", original);
 
     run(klass, "shellSort", original);
-    //
+
+    run(klass, "mergeSort", original);
+
+    run(klass, "mergeSort2", original);
 
   }
 
@@ -61,9 +66,6 @@ public class Main {
     System.out.println(methodName(klass, methodName, param));
 
     method.invoke(null, (Object) recordsCopy);
-    for (int i = 1; i < recordsCopy.length; i++) {
-      assert recordsCopy[i].isGreaterThanOrEqualTo(recordsCopy[i - 1]) : "Wrong algorithm!!!!!";
-    }
 
     String separator = null;
     System.out.print("Original ");
@@ -80,6 +82,10 @@ public class Main {
       System.out.printf(separator + "%2d", record.getKey());
     }
     System.out.println('\n');
+
+    for (int i = 1; i < recordsCopy.length; i++) {
+      assert recordsCopy[i].isGreaterThanOrEqualTo(recordsCopy[i - 1]) : "Wrong algorithm!!!!!";
+    }
   }
 
   private static <E> E[] reverse(E[] data) {

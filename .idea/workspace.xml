@@ -5,7 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/BasicSorting.java" afterPath="$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/BasicSorting.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/Main.java" afterPath="$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/utils/Input.java" afterPath="$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/utils/Input.java" />
     </list>
     <ignored path="study-dsa.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +25,45 @@
     <favorites_list name="study-dsa" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="BasicSorting.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/BasicSorting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1556">
+              <caret line="271" column="0" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1085">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding>
+                <element signature="docComment;class#Main#0" expanded="false" />
+                <element signature="e#572#625#0" expanded="false" />
+                <element signature="method#methodName#0;class#Main#0" expanded="false" />
+                <element signature="method#reverse#0;class#Main#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Class.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59430">
+              <caret line="1785" column="0" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -219,55 +256,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study-dsa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study-dsa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study-dsa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study-dsa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="study-dsa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dsa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -749,32 +743,35 @@
       <workItem from="1480538966730" duration="6221000" />
       <workItem from="1480712199160" duration="23000" />
       <workItem from="1480992514173" duration="3865000" />
-      <workItem from="1481022133467" duration="4580000" />
+      <workItem from="1481022133467" duration="4774000" />
+      <workItem from="1481066565564" duration="4958000" />
+      <workItem from="1481108751082" duration="16000" />
+      <workItem from="1481203692130" duration="23000" />
+      <workItem from="1481237778712" duration="4184000" />
+      <workItem from="1481253591773" duration="154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42054000" />
+    <option name="totallyTimeSpent" value="51583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-12" y="-12" width="3864" height="2114" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46697867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5706806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296932" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15390626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30813348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296932" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -784,8 +781,10 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="88" y="88" width="3664" height="1914" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296932" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -837,6 +836,130 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/BasicSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1085">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#Main#0" expanded="false" />
+            <element signature="e#572#625#0" expanded="false" />
+            <element signature="method#methodName#0;class#Main#0" expanded="false" />
+            <element signature="method#reverse#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62475">
+          <caret line="1785" column="0" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/BasicSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#Main#0" expanded="false" />
+            <element signature="e#572#625#0" expanded="false" />
+            <element signature="method#methodName#0;class#Main#0" expanded="false" />
+            <element signature="method#reverse#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62475">
+          <caret line="1785" column="0" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/BasicSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#Main#0" expanded="false" />
+            <element signature="e#572#625#0" expanded="false" />
+            <element signature="method#methodName#0;class#Main#0" expanded="false" />
+            <element signature="method#reverse#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62475">
+          <caret line="1785" column="0" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/BasicSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="84" column="5" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#Main#0" expanded="false" />
+            <element signature="e#572#625#0" expanded="false" />
+            <element signature="method#methodName#0;class#Main#0" expanded="false" />
+            <element signature="method#reverse#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62475">
+          <caret line="1785" column="0" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -845,7 +968,6 @@
             <element signature="docComment;class#Main#0" expanded="false" />
             <element signature="e#572#625#0" expanded="false" />
             <element signature="method#methodName#0;class#Main#0" expanded="false" />
-            <element signature="method#run#0;class#Main#0" expanded="false" />
             <element signature="method#reverse#0;class#Main#0" expanded="false" />
           </folding>
         </state>
@@ -856,8 +978,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="method#shellSort#0;class#BasicSorting#0" expanded="false" />
-            <element signature="method#isPositivePowerOf#0;class#BasicSorting#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -870,7 +991,6 @@
             <element signature="docComment;class#Main#0" expanded="false" />
             <element signature="e#572#625#0" expanded="false" />
             <element signature="method#methodName#0;class#Main#0" expanded="false" />
-            <element signature="method#run#0;class#Main#0" expanded="false" />
             <element signature="method#reverse#0;class#Main#0" expanded="false" />
           </folding>
         </state>
@@ -881,8 +1001,7 @@
         <state relative-caret-position="6055">
           <caret line="174" column="62" selection-start-line="174" selection-start-column="62" selection-end-line="174" selection-end-column="62" />
           <folding>
-            <element signature="method#shellSort#0;class#BasicSorting#0" expanded="false" />
-            <element signature="method#isPositivePowerOf#0;class#BasicSorting#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -895,7 +1014,6 @@
             <element signature="docComment;class#Main#0" expanded="false" />
             <element signature="e#572#625#0" expanded="false" />
             <element signature="method#methodName#0;class#Main#0" expanded="false" />
-            <element signature="method#run#0;class#Main#0" expanded="false" />
             <element signature="method#reverse#0;class#Main#0" expanded="false" />
           </folding>
         </state>
@@ -906,8 +1024,7 @@
         <state relative-caret-position="6055">
           <caret line="174" column="62" selection-start-line="174" selection-start-column="62" selection-end-line="174" selection-end-column="62" />
           <folding>
-            <element signature="method#shellSort#0;class#BasicSorting#0" expanded="false" />
-            <element signature="method#isPositivePowerOf#0;class#BasicSorting#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -916,12 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="875">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -933,7 +1044,6 @@
             <element signature="docComment;class#Main#0" expanded="false" />
             <element signature="e#572#625#0" expanded="false" />
             <element signature="method#methodName#0;class#Main#0" expanded="false" />
-            <element signature="method#run#0;class#Main#0" expanded="false" />
             <element signature="method#reverse#0;class#Main#0" expanded="false" />
           </folding>
         </state>
@@ -944,8 +1054,7 @@
         <state relative-caret-position="4031">
           <caret line="140" column="47" selection-start-line="140" selection-start-column="47" selection-end-line="140" selection-end-column="47" />
           <folding>
-            <element signature="method#shellSort#0;class#BasicSorting#0" expanded="false" />
-            <element signature="method#isPositivePowerOf#0;class#BasicSorting#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -954,12 +1063,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -971,7 +1074,6 @@
             <element signature="docComment;class#Main#0" expanded="false" />
             <element signature="e#572#625#0" expanded="false" />
             <element signature="method#methodName#0;class#Main#0" expanded="false" />
-            <element signature="method#run#0;class#Main#0" expanded="false" />
             <element signature="method#reverse#0;class#Main#0" expanded="false" />
           </folding>
         </state>
@@ -982,8 +1084,7 @@
         <state relative-caret-position="4031">
           <caret line="140" column="47" selection-start-line="140" selection-start-column="47" selection-end-line="140" selection-end-column="47" />
           <folding>
-            <element signature="method#shellSort#0;class#BasicSorting#0" expanded="false" />
-            <element signature="method#isPositivePowerOf#0;class#BasicSorting#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -992,12 +1093,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1009,7 +1104,6 @@
             <element signature="docComment;class#Main#0" expanded="false" />
             <element signature="e#572#625#0" expanded="false" />
             <element signature="method#methodName#0;class#Main#0" expanded="false" />
-            <element signature="method#run#0;class#Main#0" expanded="false" />
             <element signature="method#reverse#0;class#Main#0" expanded="false" />
           </folding>
         </state>
@@ -1020,8 +1114,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="method#shellSort#0;class#BasicSorting#0" expanded="false" />
-            <element signature="method#isPositivePowerOf#0;class#BasicSorting#0" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1030,12 +1123,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-          <folding>
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1043,7 +1130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,7 +1214,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,12 +1221,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="875">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#902#903#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1149,31 +1228,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1152">
           <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/BasicSorting.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4025">
-          <caret line="116" column="10" selection-start-line="116" selection-start-column="10" selection-end-line="116" selection-end-column="10" />
-          <folding>
-            <element signature="method#shellSort#0;class#BasicSorting#0" expanded="false" />
-            <element signature="method#isPositivePowerOf#0;class#BasicSorting#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="59430">
+          <caret line="1785" column="0" selection-start-line="1785" selection-start-column="0" selection-end-line="1785" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="763">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="1085">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
             <element signature="docComment;class#Main#0" expanded="false" />
             <element signature="e#572#625#0" expanded="false" />
             <element signature="method#methodName#0;class#Main#0" expanded="false" />
-            <element signature="method#run#0;class#Main#0" expanded="false" />
             <element signature="method#reverse#0;class#Main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/io/jaylim/study/dsa/sorting/BasicSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1556">
+          <caret line="271" column="0" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
